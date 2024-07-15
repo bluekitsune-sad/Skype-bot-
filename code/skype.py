@@ -1,7 +1,7 @@
 from skpy import Skype
 from credintionals import *
 
-# Replace with your Skype username and password (avoid storing directly in code)
+# Replace with your Skype username and password (avoid storing directly in code) 
 username = Musername
 password = Mpassword
 
